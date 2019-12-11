@@ -25,6 +25,8 @@ in the ebook.py file, you will see where to put your email and password, as well
 This folder should live at /users/yourname/documents/findle for this to work. you will need to go through the code and replace all ____________ with your username. Please make sure to read the comments in each file as well. You may run into a few issues working with pyautogui as I've set it to work when limechat is fullscreen. in order to connect to Ebooks IRC, i suggest to read this.
 https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/
 
+Lastly, you will need to create a subfolder in the findle folder called Books, and a second subfolder in Books called Kindle.
+
 This is my first project, please leave feedback if you feel I can improve or you yourself know how to improve the project.
 Please only download public domain books.
 many thanks to all those who have developed the packages, programs and snippets of code I have used in this project.
